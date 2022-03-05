@@ -15,7 +15,7 @@ spring:
     # 发送者邮箱地址
     username: 邮箱地址
     # 端口（不同邮箱端口号不同）
-    port: 25
+    port: 端口号
 
   # rabbitmq配置
   rabbitmq:
@@ -39,7 +39,7 @@ spring:
     #服务器地址
     host: 服务器地址
     #服务器端口
-    port: 6379
+    port: 端口号
     #数据库
     database: 0
     #密码
